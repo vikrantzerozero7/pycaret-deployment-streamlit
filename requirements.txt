@@ -1,2 +1,3 @@
--U --pre pycaret
--U --pre streamlit
+--upgrade pycaret
+--upgrade streamlit
+--upgrade pip
